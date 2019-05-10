@@ -1,0 +1,67 @@
+﻿@{
+
+    Layout = "~/Views/Shared/_layoutAdministrador.cshtml";
+
+}
+
+@model IEnumerable<COPY_ST_9core.Models.Pedidos>
+
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+    <div class="opacidad">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Id_Pedido)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Producto)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Cantidad_Pedida)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Fecha)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Id)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Id_Articulos)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Id_Pedido)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Producto)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Cantidad_Pedida)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Fecha)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Id)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Id_Articulos)
+                        </td>
+                        <td>
+                           
+                            @Html.ActionLink("Delete", "Delete", new { id=item.Id_Pedido})
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>

@@ -1,0 +1,334 @@
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.deps.json
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.runtimeconfig.json
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.runtimeconfig.dev.json
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.dll
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csprojAssemblyReference.cache
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csproj.CoreCompileInputs.cache
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorAssemblyInfo.cache
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorAssemblyInfo.cs
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.AssemblyInfoInputs.cache
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.AssemblyInfo.cs
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorTargetAssemblyInfo.cache
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.pdb
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.dll
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.pdb
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.Views.dll
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.Views.pdb
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.TagHelpers.input.cache
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.TagHelpers.output.cache
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorCoreGenerate.cache
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorTargetAssemblyInfo.cs
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.Views.pdb
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csproj.CopyComplete
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutPrincipal.g.cshtml.cs
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\setaka\source\repos\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.deps.json
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.runtimeconfig.json
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.runtimeconfig.dev.json
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.pdb
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.Views.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.Views.pdb
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csprojAssemblyReference.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csproj.CoreCompileInputs.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorAssemblyInfo.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorAssemblyInfo.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.AssemblyInfoInputs.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.AssemblyInfo.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.TagHelpers.input.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.TagHelpers.output.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorCoreGenerate.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutPrincipal.g.cshtml.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorTargetAssemblyInfo.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorTargetAssemblyInfo.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.Views.pdb
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.pdb
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csproj.CopyComplete
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.deps.json
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.runtimeconfig.json
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.runtimeconfig.dev.json
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.pdb
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.Views.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.Views.pdb
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csprojAssemblyReference.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csproj.CoreCompileInputs.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorAssemblyInfo.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorAssemblyInfo.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.AssemblyInfoInputs.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.AssemblyInfo.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.TagHelpers.input.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.TagHelpers.output.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorCoreGenerate.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutPrincipal.g.cshtml.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorTargetAssemblyInfo.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorTargetAssemblyInfo.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.Views.pdb
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.pdb
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csproj.CopyComplete
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\CatalogoCompleto.g.cshtml.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutSecundario.g.cshtml.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Registro.g.cshtml.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutRegistro.g.cshtml.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.deps.json
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.runtimeconfig.json
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.runtimeconfig.dev.json
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.dll
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.pdb
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.Views.dll
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.Views.pdb
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csprojAssemblyReference.cache
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csproj.CoreCompileInputs.cache
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorAssemblyInfo.cache
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorAssemblyInfo.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.AssemblyInfoInputs.cache
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.AssemblyInfo.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.TagHelpers.input.cache
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.TagHelpers.output.cache
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorCoreGenerate.cache
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\CatalogoCompleto.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Registro.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutPrincipal.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutRegistro.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutSecundario.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorTargetAssemblyInfo.cache
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorTargetAssemblyInfo.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.Views.pdb
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.dll
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.pdb
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csproj.CopyComplete
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.deps.json
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.runtimeconfig.json
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.runtimeconfig.dev.json
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.dll
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.pdb
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.Views.dll
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.Views.pdb
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csprojAssemblyReference.cache
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csproj.CoreCompileInputs.cache
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorAssemblyInfo.cache
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorAssemblyInfo.cs
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.AssemblyInfoInputs.cache
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.AssemblyInfo.cs
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.TagHelpers.input.cache
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.TagHelpers.output.cache
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorCoreGenerate.cache
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\CatalogoCompleto.g.cshtml.cs
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Registro.g.cshtml.cs
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutPrincipal.g.cshtml.cs
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutRegistro.g.cshtml.cs
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutSecundario.g.cshtml.cs
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorTargetAssemblyInfo.cache
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorTargetAssemblyInfo.cs
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.Views.pdb
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.dll
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.pdb
+C:\Users\setaka\Desktop\Ejercicios\11-03-2019\Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csproj.CopyComplete
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.deps.json
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.runtimeconfig.json
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.runtimeconfig.dev.json
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.pdb
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.Views.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.Views.pdb
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csprojAssemblyReference.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csproj.CoreCompileInputs.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorAssemblyInfo.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorAssemblyInfo.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.AssemblyInfoInputs.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.AssemblyInfo.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.TagHelpers.input.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.TagHelpers.output.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorCoreGenerate.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\CatalogoCompleto.g.cshtml.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Registro.g.cshtml.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutPrincipal.g.cshtml.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutRegistro.g.cshtml.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutSecundario.g.cshtml.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorTargetAssemblyInfo.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorTargetAssemblyInfo.cs
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.Views.pdb
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.pdb
+C:\Users\setaka\Desktop\COPY_ST_9core\Versiones\version4 diseño(50%)appi (80%)\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csproj.CopyComplete
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.deps.json
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.runtimeconfig.json
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.runtimeconfig.dev.json
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.pdb
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.Views.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.Views.pdb
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csprojAssemblyReference.cache
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csproj.CoreCompileInputs.cache
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorAssemblyInfo.cache
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorAssemblyInfo.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.AssemblyInfoInputs.cache
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.AssemblyInfo.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.TagHelpers.input.cache
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.TagHelpers.output.cache
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorCoreGenerate.cache
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Registro.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutPrincipal.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutRegistro.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutSecundario.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorTargetAssemblyInfo.cache
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorTargetAssemblyInfo.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.Views.pdb
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.pdb
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csproj.CopyComplete
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutCatalogo.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\CatalogoCompleto.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Validacion\Login.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Index.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_DatosLogin.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layoutUsuarios.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\Index.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layoutAdministrador.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.deps.json
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.runtimeconfig.json
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.runtimeconfig.dev.json
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.pdb
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.Views.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.Views.pdb
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csprojAssemblyReference.cache
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csproj.CoreCompileInputs.cache
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorAssemblyInfo.cache
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorAssemblyInfo.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.AssemblyInfoInputs.cache
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.AssemblyInfo.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.TagHelpers.input.cache
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.TagHelpers.output.cache
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorCoreGenerate.cache
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\Index.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\CatalogoCompleto.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Registro.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_DatosLogin.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layoutAdministrador.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutCatalogo.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutPrincipal.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutRegistro.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutSecundario.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layoutUsuarios.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Index.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Validacion\Login.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorTargetAssemblyInfo.cache
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorTargetAssemblyInfo.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.Views.pdb
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.pdb
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csproj.CopyComplete
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_PartialMenuAdmin.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\MostrarUsuario.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\MostrarAdmin.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\MostrarPedidos.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\RegistroAdmin.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\RegistroUsuarios.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\MostrarArticulos.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\InsertarArticulos.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\InsertarArticulos.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\MostrarAdmin.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\MostrarArticulos.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\MostrarPedidos.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\MostrarUsuario.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\RegistroAdmin.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\RegistroUsuarios.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_PartialMenuAdmin.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.deps.json
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.runtimeconfig.json
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.runtimeconfig.dev.json
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.pdb
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.Views.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\bin\Debug\netcoreapp2.1\COPY_ST_9core.Views.pdb
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csprojAssemblyReference.cache
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csproj.CoreCompileInputs.cache
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorAssemblyInfo.cache
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorAssemblyInfo.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.AssemblyInfoInputs.cache
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.AssemblyInfo.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.TagHelpers.input.cache
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.TagHelpers.output.cache
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorCoreGenerate.cache
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\Index.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\InsertarArticulos.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\MostrarAdmin.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\MostrarArticulos.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\MostrarPedidos.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\MostrarUsuario.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\RegistroAdmin.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\RegistroUsuarios.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\CatalogoCompleto.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Registro.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_DatosLogin.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layoutAdministrador.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutCatalogo.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutPrincipal.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutRegistro.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutSecundario.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layoutUsuarios.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_PartialMenuAdmin.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Index.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Validacion\Login.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorTargetAssemblyInfo.cache
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.RazorTargetAssemblyInfo.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.Views.pdb
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.pdb
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\COPY_ST_9core.csproj.CopyComplete
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_PartialMenuUsuarios.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\MostrarPedidos.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\MostrarUsuario.g.cshtml.cs
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\MostrarArticulos.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\Index.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\InsertarArticulos.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\MostrarAdmin.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\MostrarArticulos.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\MostrarPedidos.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\MostrarUsuario.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\RegistroAdmin.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Administrador\RegistroUsuarios.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_DatosLogin.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layoutAdministrador.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutCatalogo.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layoutUsuarios.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_PartialMenuAdmin.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_PartialMenuUsuarios.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\Index.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\MostrarArticulos.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\MostrarPedidos.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Usuarios\MostrarUsuario.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\Razor\Views\Validacion\Login.g.cshtml.cs
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\COPY_ST_9core\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

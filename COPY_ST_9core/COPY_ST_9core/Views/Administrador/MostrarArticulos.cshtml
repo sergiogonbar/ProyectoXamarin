@@ -1,0 +1,78 @@
+﻿
+@{
+
+  Layout = "~/Views/Shared/_layoutAdministrador.cshtml";
+
+}
+@model IEnumerable<COPY_ST_9core.Models.Articulos>
+
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+    <div class="opacidad">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Id_Articulos)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Nombre)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Cantidad)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Precio)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Tipo)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Imagen)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Marca)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Id_Articulos)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Nombre)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Cantidad)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Precio)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Tipo)
+                        </td>
+
+                        <td>
+
+                            <img src="~/img/articulos/@item.Imagen" />
+
+                        </td>
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Marca)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Modificar", "ModificarArticulo", new { id = item.Id_Articulos }) |
+
+                            @Html.ActionLink("Borrar", "DeleteArticulo", new { id = item.Id_Articulos })
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+       </div>

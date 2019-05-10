@@ -1,0 +1,297 @@
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\ApiCopy.dll.config
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\ApiCopy.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\ApiCopy.pdb
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\csc.exe
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\csc.exe.config
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\csc.rsp
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\csi.exe
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\csi.exe.config
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\csi.rsp
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.AppContext.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.Console.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.IO.Compression.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.IO.Pipes.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Claims.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.ValueTuple.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.Xml.XPath.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\vbc.exe
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\vbc.exe.config
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\vbc.rsp
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\VBCSCompiler.exe
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\EntityFramework.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\EntityFramework.SqlServer.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\Newtonsoft.Json.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\System.Net.Http.Formatting.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\System.Web.Http.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\System.Web.Http.WebHost.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\EntityFramework.xml
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\EntityFramework.SqlServer.xml
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\Newtonsoft.Json.xml
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\System.Net.Http.Formatting.xml
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\System.Web.Http.xml
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\System.Web.Http.WebHost.xml
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\es\System.Web.Http.resources.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.csprojAssemblyReference.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.csproj.CoreCompileInputs.cache
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.csproj.CopyComplete
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.dll
+C:\Users\setaka\Desktop\COPY_ST_9core\COPY_ST_9core\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.pdb
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.csprojAssemblyReference.cache
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.csproj.CoreCompileInputs.cache
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.dll
+C:\Users\AlumnoMCSD\Desktop\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.pdb
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\ApiCopy.dll.config
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\ApiCopy.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\ApiCopy.pdb
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\csc.exe
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\csc.exe.config
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\csc.rsp
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\csi.exe
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\csi.exe.config
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\csi.rsp
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.AppContext.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Console.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.IO.Compression.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.IO.Pipes.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Claims.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.ValueTuple.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\vbc.exe
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\vbc.exe.config
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\vbc.rsp
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\VBCSCompiler.exe
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\Autofac.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\EntityFramework.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\EntityFramework.SqlServer.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\Newtonsoft.Json.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\System.Net.Http.Formatting.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\System.Web.Http.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\System.Web.Http.WebHost.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\Autofac.pdb
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\Autofac.xml
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\EntityFramework.xml
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\EntityFramework.SqlServer.xml
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\Newtonsoft.Json.xml
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\System.Net.Http.Formatting.xml
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\System.Web.Http.xml
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\System.Web.Http.WebHost.xml
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\es\System.Web.Http.resources.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.csprojAssemblyReference.cache
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.csproj.CoreCompileInputs.cache
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.csproj.CopyComplete
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.dll
+C:\Users\AlumnoMCSD\Desktop\Recurso para proyecto\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.pdb
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\ApiCopy.dll.config
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\ApiCopy.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\ApiCopy.pdb
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\csc.exe
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\csc.exe.config
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\csc.rsp
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\csi.exe
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\csi.exe.config
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\csi.rsp
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.AppContext.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Console.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.IO.Compression.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.IO.Pipes.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Claims.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.ValueTuple.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Xml.XPath.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\vbc.exe
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\vbc.exe.config
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\vbc.rsp
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\VBCSCompiler.exe
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\Autofac.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\EntityFramework.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\EntityFramework.SqlServer.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\Newtonsoft.Json.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\System.Net.Http.Formatting.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\System.Web.Http.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\System.Web.Http.WebHost.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\Autofac.pdb
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\Autofac.xml
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\EntityFramework.xml
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\EntityFramework.SqlServer.xml
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\Newtonsoft.Json.xml
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\System.Net.Http.Formatting.xml
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\System.Web.Http.xml
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\System.Web.Http.WebHost.xml
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\es\System.Web.Http.resources.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.csprojAssemblyReference.cache
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.csproj.CoreCompileInputs.cache
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.csproj.CopyComplete
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.dll
+C:\Users\setaka\Desktop\Core Proyecto\Recurso para proyecto\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.pdb
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\ApiCopy.dll.config
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\ApiCopy.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\ApiCopy.pdb
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\csc.exe
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\csc.exe.config
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\csc.rsp
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\csi.exe
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\csi.exe.config
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\csi.rsp
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.AppContext.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Console.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.IO.Compression.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.IO.Pipes.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Claims.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.ValueTuple.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Xml.XPath.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\vbc.exe
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\vbc.exe.config
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\vbc.rsp
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\VBCSCompiler.exe
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\Autofac.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\EntityFramework.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\EntityFramework.SqlServer.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\Newtonsoft.Json.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\System.Net.Http.Formatting.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\System.Web.Http.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\System.Web.Http.WebHost.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\Autofac.pdb
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\Autofac.xml
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\EntityFramework.xml
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\EntityFramework.SqlServer.xml
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\Newtonsoft.Json.xml
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\System.Net.Http.Formatting.xml
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\System.Web.Http.xml
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\System.Web.Http.WebHost.xml
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\es\System.Web.Http.resources.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.csprojAssemblyReference.cache
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.csproj.CoreCompileInputs.cache
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.csproj.CopyComplete
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.dll
+C:\Users\setaka\Desktop\Core Proyecto\COPY_ST_9core\ApiCopy\obj\Release\ApiCopy.pdb

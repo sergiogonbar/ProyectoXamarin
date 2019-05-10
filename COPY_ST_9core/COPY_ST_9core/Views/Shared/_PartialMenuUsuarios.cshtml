@@ -1,0 +1,64 @@
+﻿
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<div style="display:inline ">
+    <div style="color:blue">
+        <h4 class="h4">Opciones de Usuarios</h4>
+    </div>
+    <div>
+
+        <hr />
+        <dl class="dl-horizontal">
+
+
+
+            <dd>
+                <button type="button" class="btn-dark">
+                    @Html.ActionLink("Mostrar perfil usuario ", "MostrarUsuario", "Usuarios"@*new { id = item.ID }*@)
+                </button>
+
+            </dd>
+            <dd><br /></dd>
+            <dd><br /></dd>
+            <dd><br /></dd>
+            <dd>
+                <button type="button" class="btn-dark">
+                    @Html.ActionLink("Mostrar Articulos ", "MostrarArticulos", "Usuarios"@*new { id = item.ID }*@)
+                </button>
+
+            </dd>
+
+        </dl>
+
+    </div>
+    <div style="display:inline">
+        <div style="color:blue">
+            <h4 class="h4">Opciones de Pedidos</h4>
+            <div>
+
+                <hr />
+                <dl class="dl-horizontal">
+
+                    <dd>
+                        <button type="submit" class="btn-dark">
+                            @Html.ActionLink("Mostrar Pedidos", "MostrarPedido", "Usuarios")
+                        </button>
+
+                    </dd>
+                    <dd><br /></dd>
+                    <dd><br /></dd>
+                    <dd><br /></dd>
+                    <dd>
+                        <button type="submit" class="btn-dark">
+                            @Html.ActionLink(" Realizar Pedidos ", "RegistroPedido", "Usuarios")
+                        </button>
+                    </dd>
+
+                </dl>
+            </div>
+        </div>
+    </div>
+
+</div>

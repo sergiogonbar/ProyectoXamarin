@@ -1,0 +1,68 @@
+﻿@{
+
+    Layout = "~/Views/Shared/_layoutAdministrador.cshtml";
+
+}
+
+@model IEnumerable<COPY_ST_9core.Models.Usuarios>
+
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+    <div class="opacidad">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Id)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Nombre)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Password)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Funcion)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Mail)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Telf)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Id)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Nombre)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Password)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Funcion)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Mail)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Telf)
+                        </td>
+                        <td>
+                            @Html.ActionLink("Modificar", "ModificarArticulo", new { id = item.Id }) |
+
+                            @Html.ActionLink("Borrar", "Delete", new { id = item.Id })
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>

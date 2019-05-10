@@ -1,0 +1,281 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Stylish Portfolio - Start Bootstrap Template</title>
+
+    <!-- Bootstrap Core CSS -->
+    @*<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">*@
+    <environment include="Development">
+        <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="css/stylish-portfolio.min.css" rel="stylesheet">
+    </environment>
+    <environment include="Production">
+        <link href="~/css/bootstrap.min.css" rel="stylesheet" />
+    </environment>
+    <!-- Custom Fonts -->
+    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+  
+
+
+</head>
+
+<body id="page-top">
+
+    <!-- Navigation -->
+    <a class="menu-toggle rounded" href="#">
+        <i class="fas fa-bars"></i>
+    </a>
+    <nav id="sidebar-wrapper">
+        <ul class="sidebar-nav">
+            <li class="sidebar-nav-item">
+                <a class="js-scroll-trigger" asp-controller="Validacion" asp-action="Login">Login</a>
+            </li>
+            <li class="sidebar-nav-item">
+                <a class="js-scroll-trigger" href="#page-top">Inicio</a>
+            </li>
+            <li class="sidebar-nav-item">
+                <a class="js-scroll-trigger" href="#about">Sobre Nosotros</a>
+            </li>
+            
+            <li class="sidebar-nav-item">
+                <a class="js-scroll-trigger" href="#marca">Producto y marcas</a>
+            </li>
+            <li class="sidebar-nav-item">
+                <a class="js-scroll-trigger" href="#contact">Contacto</a>
+            </li>
+            <li class="sidebar-nav-item">
+
+            </li>
+        </ul>
+    </nav>
+
+    <!-- Header -->
+    <header class="masthead d-flex">
+        <div class="container text-center my-auto" >
+            <h1 class="mb-1">COPY ST 9</h1>
+            <br />
+            <br />
+            <h3 class="mb-5">
+                <em>Distribuidores de material oficina</em>
+            </h3>
+            <br />
+            <br />
+            <br />
+            <a class="btn btn-primary btn-xl js-scroll-trigger" asp-controller="Home" asp-action="Registro">Registrate</a>
+        </div>
+        <div class="overlay"></div>
+    </header>
+
+    <!-- About -->
+    <section class="content-section bg-light" id="about" align="center">
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-10 mx-auto" align="center">
+                    <h2 class="mb-5"> Somos una empresa ubicada en Madrid distribuidora de:</h2>
+                    @*<h2> Somos una empresa ubicada en Madrid distribuidora de:</h2>*@
+                    <p class="lead mb-5">
+                        -Impresoras <br />
+                        -Toner<br />
+                        -Material de oficina<br />
+                    </p>
+
+
+                    @*<a class="btn btn-dark btn-xl js-scroll-trigger" href="#services">!*****!</a>*@
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services -->
+    <section class="content-section bg-primary text-white text-center" id="services">
+        <div class="container">
+            <div class="content-section-heading">
+              
+                <h2 class="mb-5">Que Ofrecemos</h2>
+            </div>
+            <br />
+            <br />
+            <div class="row">
+                <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+                    <span class="service-icon rounded-circle mx-auto mb-3">
+                        <i class="icon-screen-smartphone"></i>
+                    </span>
+                    <h4>
+                        <strong>Atencion Telefonica</strong>
+                    </h4>
+                    <p class="text-faded mb-0">call center de atencion al cliente!</p>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+                    <span class="service-icon rounded-circle mx-auto mb-3">
+                        <i class="icon-pencil"></i>
+                    </span>
+                    <h4>
+                        <strong>Servicio Tecnico</strong>
+                    </h4>
+                    <p class="text-faded mb-0">Reparacion de equipos y asesoramiento</p>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
+                    <span class="service-icon rounded-circle mx-auto mb-3">
+                        <i class="icon-like"></i>
+                    </span>
+                    <h4>
+                        <strong>Confianza y Seguridad</strong>
+                    </h4>
+                    <p class="text-faded mb-0">
+                        Más de 12 años en el sector
+                    </p>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <span class="service-icon rounded-circle mx-auto mb-3">
+                        <i class="icon-mustache"></i>
+                    </span>
+                    <h4>
+                        <strong>Fiabilidad</strong>
+                    </h4>
+                    <p class="text-faded mb-0">
+                        Avalado por nuestras marcas y
+                        <i class="fas fa-heart">clientes</i>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Callout -->
+    <section class="callout" id="marca" >
+        <div class="container text-center">
+            <h2 class="mx-auto mb-5">
+                Mira
+                <em>Nuestros</em>
+                Productos
+            </h2>
+
+
+
+
+            <a class="btn btn-primary btn-xl" asp-controller="Home" asp-action="CatalogoCompleto">Catalogo Completo</a>
+            @*<a class="btn btn-primary btn-xl" href="https://startbootstrap.com/template-overviews/stylish-portfolio/">Download Now!</a>*@
+
+        </div>
+    </section>
+
+    <!-- Portfolio -->
+    <section class="content-section" id="portfolio" >
+        <div class="container">
+            <div class="content-section-heading text-center">
+                @*<h3 class="text-secondary mb-0"> Principales Proveedores</h3>*@
+                <h2 class="mb-5">Principales Proveedores</h2>
+            </div>
+            <div class="row no-gutters">
+                <div class="col-lg-6">
+                    <a class="portfolio-item" href="#">
+                        <span class="caption">
+                            <span class="caption-content">
+                                <h2>Canon</h2>
+                                @*<p class="mb-0">A yellow pencil with envelopes on a clean, blue backdrop!</p>*@
+                            </span>
+                        </span>
+                        <a href="https://www.canon.es/">
+                        <img class="img-fluid" src="img/canonLogo.jpg" alt=""  >
+                         </a>
+                </div>
+                <div class="col-lg-6">
+                    <a class="portfolio-item" href="#">
+                        <span class="caption">
+                            <span class="caption-content">
+                                <h2>hp</h2>
+                                <p class="mb-0"></p>
+                            </span>
+                        </span>
+                        <a href="https://store.hp.com/SpainStore/Merch/Default.aspx">
+                            <img class="img-fluid" src="img/hpLogo.jpg" alt="">
+                        </a>
+</div>
+               
+            </div>
+        </div>
+    </section>
+    <!-- Call to Action -->
+    @*<section class="content-section bg-primary text-white" id="mapa">
+        <div class="container text-center">
+           
+            <div style="height:400px; width:500px" align="center">
+                <script type="text/javascript" src="//ra.revolvermaps.com/0/0/7.js?i=0m8dzq5bgk4&amp;m=7&amp;c=ff0000&amp;
+                                     cr1=ffffff&amp;sx=0" async="async">
+
+                </script>
+            </div>
+        </div>
+    </section>*@
+
+    <!-- Map -->
+    <section id="contact" class="map">
+        <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3035.5286098314014!2d-3.6436206851038606!3d40.46356916071426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd422ee783780d4f%3A0x46a62856337ed39e!2sCopy+St+9+L!5e0!3m2!1ses!2ses!4v1546982577988"></iframe>
+        <br />
+        <small>
+            <a href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3035.5286098314014!2d-3.6436206851038606!3d40.46356916071426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd422ee783780d4f%3A0x46a62856337ed39e!2sCopy+St+9+L!5e0!3m2!1ses!2ses!4v1546982577988">
+                </ a >
+                </ small >
+    </section>
+
+
+
+    @RenderBody()
+
+    <footer class="footer text-center">
+
+        <div class="container">
+            <ul class="list-inline mb-5">
+                <li class="list-inline-item">
+                    <a class="social-link rounded-circle text-white mr-3" href="https://www.facebook.com/pg/copyst9/about/">
+                        <i class="icon-social-facebook"></i>
+                        <h3 class="text-secondary mb-0">Siguenos en facebook</h3>
+                    </a>
+                </li>
+
+            </ul>
+            <p class="text-muted small mb-0">Copyright &copy; Your Website 2019</p>
+        </div>
+    </footer>
+
+    <!-- Scroll to Top Button-->
+    <a class="scroll-to-top rounded js-scroll-trigger" href="#page-top">
+        <i class="fas fa-angle-up"></i>
+    </a>
+
+    <!-- Bootstrap core JavaScript -->
+    @*<script src="vendor/jquery/jquery.min.js"></script>*@
+
+    <environment include="Development">
+        <script src="~/js/jquery-3.3.1.min.js"></script>
+        <script src="~/js/bootstrap.js"></script>
+
+        <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+        <!-- Plugin JavaScript -->
+        <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+        <!-- Custom scripts for this template -->
+        <script src="js/stylish-portfolio.min.js"></script>
+    </environment>
+    <environment include="Production">
+        <script src="~/js/jquery-3.3.1.min.js"></script>
+        <script src="~/js/bootstrap.js"></script>
+    </environment>
+
+
+</body>
+
+</html>
