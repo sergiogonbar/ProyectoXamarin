@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    //Layout = "~/Views/Shared/_LayoutProductos.cshtml";
+}
+
+<h2>Insertar Productos</h2>
+<style>
+    .row {
+        margin-top: 1em;
+        margin-bottom: 1em
+    }
+</style>
+<div class="row">
+    <div class="col-sm-12">
+        <form method="post" enctype="multipart/form-data">
+            <div class="row">
+                <label>Nombre: </label>
+                <input type="text" name="name" />
+            </div>
+            <div class="row">
+                <label>Numero en stock: </label>
+                <input type="number" name="stock" />
+            </div>
+            <div class="row">
+                <label>Tipo</label>
+                <input type="text" name="type" />
+            </div>
+            <div class="row">
+                <input type="file" name="file" />
+            </div>
+            <div class="row">
+                <label>Precio: </label>
+                <input type="number" name="price" />
+            </div>
+            <div class="row">
+                <label>Marca: </label>
+                <input type="text" name="marca" />
+            </div>
+            <div class="row">
+                <button type="submit" class="btn btn-success">INSERTAR!</button>
+            </div>
+        </form>
+
+    </div>
+</div>

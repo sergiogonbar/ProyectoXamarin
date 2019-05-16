@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="cadenaAzure-Web.config Connection String" description="cadenaAzure Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=servidortajamarsgb.database.windows.net;Initial Catalog=COPY_ST_9;Persist Security Info=True;User ID=SetGB; password=adminSergio1984" tags="SqlConnectionString">
-    <parameterEntry kind="XmlFile" scope="C:\\Users\\setaka\\Desktop\\Core\ Proyecto\\COPY_ST_9core\\ApiCopy\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='cadenaAzure']/@connectionString" />
-  </parameter>
-</parameters>
