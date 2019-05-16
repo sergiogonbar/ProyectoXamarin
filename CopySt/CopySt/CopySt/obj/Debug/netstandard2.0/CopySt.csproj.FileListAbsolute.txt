@@ -1,0 +1,8 @@
+C:\ProyectoXamarin\CopySt\CopySt\CopySt\bin\Debug\netstandard2.0\CopySt.deps.json
+C:\ProyectoXamarin\CopySt\CopySt\CopySt\bin\Debug\netstandard2.0\CopySt.dll
+C:\ProyectoXamarin\CopySt\CopySt\CopySt\obj\Debug\netstandard2.0\CopySt.csprojAssemblyReference.cache
+C:\ProyectoXamarin\CopySt\CopySt\CopySt\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\ProyectoXamarin\CopySt\CopySt\CopySt\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\ProyectoXamarin\CopySt\CopySt\CopySt\obj\Debug\netstandard2.0\CopySt.csproj.CoreCompileInputs.cache
+C:\ProyectoXamarin\CopySt\CopySt\CopySt\obj\Debug\netstandard2.0\CopySt.AssemblyInfoInputs.cache
+C:\ProyectoXamarin\CopySt\CopySt\CopySt\obj\Debug\netstandard2.0\CopySt.AssemblyInfo.cs
