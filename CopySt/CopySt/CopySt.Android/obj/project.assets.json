@@ -873,11 +873,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProyectoXamarin\\CopySt\\CopySt\\CopySt.Android\\CopySt.Android.csproj",
+      "projectUniqueName": "C:\\Users\\AlumnoMCSD\\Desktop\\Repositorio\\ProyectoXamarin\\CopySt\\CopySt\\CopySt.Android\\CopySt.Android.csproj",
       "projectName": "CopySt.Android",
-      "projectPath": "C:\\ProyectoXamarin\\CopySt\\CopySt\\CopySt.Android\\CopySt.Android.csproj",
+      "projectPath": "C:\\Users\\AlumnoMCSD\\Desktop\\Repositorio\\ProyectoXamarin\\CopySt\\CopySt\\CopySt.Android\\CopySt.Android.csproj",
       "packagesPath": "C:\\Users\\AlumnoMCSD\\.nuget\\packages\\",
-      "outputPath": "C:\\ProyectoXamarin\\CopySt\\CopySt\\CopySt.Android\\obj\\",
+      "outputPath": "C:\\Users\\AlumnoMCSD\\Desktop\\Repositorio\\ProyectoXamarin\\CopySt\\CopySt\\CopySt.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -894,8 +894,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\ProyectoXamarin\\CopySt\\CopySt\\CopySt\\CopySt.csproj": {
-              "projectPath": "C:\\ProyectoXamarin\\CopySt\\CopySt\\CopySt\\CopySt.csproj"
+            "C:\\Users\\AlumnoMCSD\\Desktop\\Repositorio\\ProyectoXamarin\\CopySt\\CopySt\\CopySt\\CopySt.csproj": {
+              "projectPath": "C:\\Users\\AlumnoMCSD\\Desktop\\Repositorio\\ProyectoXamarin\\CopySt\\CopySt\\CopySt\\CopySt.csproj"
             }
           }
         }

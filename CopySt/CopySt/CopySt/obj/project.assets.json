@@ -419,11 +419,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProyectoXamarin\\CopySt\\CopySt\\CopySt\\CopySt.csproj",
+      "projectUniqueName": "C:\\Users\\AlumnoMCSD\\Desktop\\Repositorio\\ProyectoXamarin\\CopySt\\CopySt\\CopySt\\CopySt.csproj",
       "projectName": "CopySt",
-      "projectPath": "C:\\ProyectoXamarin\\CopySt\\CopySt\\CopySt\\CopySt.csproj",
+      "projectPath": "C:\\Users\\AlumnoMCSD\\Desktop\\Repositorio\\ProyectoXamarin\\CopySt\\CopySt\\CopySt\\CopySt.csproj",
       "packagesPath": "C:\\Users\\AlumnoMCSD\\.nuget\\packages\\",
-      "outputPath": "C:\\ProyectoXamarin\\CopySt\\CopySt\\CopySt\\obj\\",
+      "outputPath": "C:\\Users\\AlumnoMCSD\\Desktop\\Repositorio\\ProyectoXamarin\\CopySt\\CopySt\\CopySt\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
