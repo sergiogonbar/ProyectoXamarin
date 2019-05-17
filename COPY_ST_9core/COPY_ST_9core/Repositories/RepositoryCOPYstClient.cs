@@ -15,7 +15,7 @@ namespace COPY_ST_9core.Repositories
         private MediaTypeWithQualityHeaderValue headerjson;
 
         public RepositoryCOPYstClient() {
-            this.apiurl = "https://apicopysgb.azurewebsites.net/";
+            this.apiurl = "https://localhost:44353/";
             this.headerjson = new MediaTypeWithQualityHeaderValue("application/json");
         }
 
@@ -64,7 +64,7 @@ namespace COPY_ST_9core.Repositories
         {
             using (HttpClient client = new HttpClient())
             {
-                String peticion = "api/GetUsuario/"+usu+"/"+pass;
+                String peticion = "api/Auth/Login/"+usu+"/"+pass;
                 client.BaseAddress =
                     new Uri(this.apiurl);
                 client.DefaultRequestHeaders.Accept.Clear();

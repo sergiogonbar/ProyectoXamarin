@@ -19,7 +19,7 @@ namespace ApiCopy.Models
         [Column("CANTIDAD_PEDIDA")]
         public int Cantidad_Pedida { get; set; }
         [Column("FECHA")]
-        public String Fecha { get; set; }
+        public DateTime Fecha { get; set; }
         [Column("ID")]
         public int Id { get; set; }
         [Column("ID_ARTICULOS")]
