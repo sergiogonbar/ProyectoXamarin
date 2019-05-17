@@ -28,15 +28,15 @@ namespace APICopyCore.Controllers
         }
 
         [HttpGet]
-        [Route("[action]/{nombre}/{password}")]
-        public IActionResult Login(String nombre, String password)
+        [Route("[action]")]
+        public IActionResult Login(Usuarios usuario)
         {
-            Usuarios userLogin = this.repo.ExisteUsuario(nombre, password);
+            Usuarios userLogin = this.repo.ExisteUsuario(usuario.Nombre, usuario.Password);
             if (userLogin != null)
             {
                 Claim[] claims = new[]
                 {
-                    new Claim("UserData", JsonConvert.SerializeObject(userLogin))
+                    new Claim(usuario.Mail, JsonConvert.SerializeObject(userLogin))
                 };
 
                 JwtSecurityToken token = new JwtSecurityToken
@@ -62,12 +62,12 @@ namespace APICopyCore.Controllers
             }
         }
 
-        [HttpGet]
+        [HttpPost]
         [Route("[action]")]
-        public Usuarios GetUSER()
+        public Usuarios GetUSER(Usuarios usuario)
         {
             List<Claim> claims = HttpContext.User.Claims.ToList();
-            String json = claims.SingleOrDefault(x => x.Type == "UserData").Value;
+            String json = claims.SingleOrDefault(x => x.Type == usuario.Mail).Value;
             Usuarios user = JsonConvert.DeserializeObject<Usuarios>(json);
             return user;
         }

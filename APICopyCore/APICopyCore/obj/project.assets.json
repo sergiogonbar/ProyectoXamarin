@@ -12611,11 +12611,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AlumnoMCSD\\source\\Github\\APICopyCore\\APICopyCore\\APICopyCore.csproj",
+      "projectUniqueName": "C:\\Users\\AlumnoMCSD\\source\\Github\\ProyectoXamarin\\APICopyCore\\APICopyCore\\APICopyCore.csproj",
       "projectName": "APICopyCore",
-      "projectPath": "C:\\Users\\AlumnoMCSD\\source\\Github\\APICopyCore\\APICopyCore\\APICopyCore.csproj",
+      "projectPath": "C:\\Users\\AlumnoMCSD\\source\\Github\\ProyectoXamarin\\APICopyCore\\APICopyCore\\APICopyCore.csproj",
       "packagesPath": "C:\\Users\\AlumnoMCSD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AlumnoMCSD\\source\\Github\\APICopyCore\\APICopyCore\\obj\\",
+      "outputPath": "C:\\Users\\AlumnoMCSD\\source\\Github\\ProyectoXamarin\\APICopyCore\\APICopyCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
