@@ -27,7 +27,7 @@ namespace APICopyCore.Controllers
             this.configuration = configuration;
         }
 
-        [HttpGet]
+        [HttpPost]
         [Route("[action]")]
         public IActionResult Login(Usuarios usuario)
         {
@@ -36,7 +36,7 @@ namespace APICopyCore.Controllers
             {
                 Claim[] claims = new[]
                 {
-                    new Claim(usuario.Mail, JsonConvert.SerializeObject(userLogin))
+                    new Claim("session1", JsonConvert.SerializeObject(userLogin))
                 };
 
                 JwtSecurityToken token = new JwtSecurityToken
@@ -60,16 +60,6 @@ namespace APICopyCore.Controllers
             {
                 return Unauthorized();
             }
-        }
-
-        [HttpPost]
-        [Route("[action]")]
-        public Usuarios GetUSER(Usuarios usuario)
-        {
-            List<Claim> claims = HttpContext.User.Claims.ToList();
-            String json = claims.SingleOrDefault(x => x.Type == usuario.Mail).Value;
-            Usuarios user = JsonConvert.DeserializeObject<Usuarios>(json);
-            return user;
         }
     }
 }

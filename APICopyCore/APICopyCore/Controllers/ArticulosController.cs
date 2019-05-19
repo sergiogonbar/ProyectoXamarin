@@ -21,7 +21,6 @@ namespace APICopyCore.Controllers
             this.repo = repo;
         }
 
-        [Authorize]
         [HttpGet]
         [Route("api/Articulos")]
         ////ruta  http://localhost:58647/api/COPYst //por defecto si no pusiera route
