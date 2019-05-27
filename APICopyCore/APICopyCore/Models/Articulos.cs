@@ -26,5 +26,8 @@ namespace APICopyCore.Models
         public String Imagen { get; set; }
         [Column("MARCA")]
         public String Marca { get; set; }
+        [Column("DESCRIPCION")]
+        public String Descripcion { get; set; }
+
     }
 }

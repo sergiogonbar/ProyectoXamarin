@@ -46,7 +46,7 @@ namespace APICopyCore.Controllers
         [Route("api/InsertarArticulo")]
         public void articulos(Articulos articulos)
         {
-            this.repo.InsertarArticulos(articulos.Nombre, articulos.Cantidad, articulos.Precio, articulos.Tipo, articulos.Marca, articulos.Imagen);
+            this.repo.InsertarArticulos(articulos.Nombre, articulos.Cantidad, articulos.Precio, articulos.Tipo, articulos.Marca, articulos.Imagen,articulos.Descripcion);
         }
 
         [HttpPut]

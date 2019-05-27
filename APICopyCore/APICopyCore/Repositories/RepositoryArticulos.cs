@@ -59,7 +59,7 @@ namespace APICopyCore.Repositories
                             select datos.Marca).Distinct();
             return consulta.ToList();
         }
-        public void InsertarArticulos(string nombre, int cantidad_stock, int precio, string tipo, string marca, string imagen)
+        public void InsertarArticulos(string nombre, int cantidad_stock, int precio, string tipo, string marca, string imagen ,String descripcion )
         {
             Articulos articulo = new Articulos();
             var idmayor = (from datos in context.Articulos select datos.Id_Articulos);
@@ -70,6 +70,7 @@ namespace APICopyCore.Repositories
             articulo.Tipo = tipo;
             articulo.Marca = marca;
             articulo.Imagen = imagen;
+            articulo.Descripcion = descripcion;
 
             this.context.Articulos.Add(articulo);
             this.context.SaveChanges();
