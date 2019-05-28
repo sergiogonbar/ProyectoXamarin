@@ -69,6 +69,7 @@ namespace APICopyCore.Repositories
         }
 
 
+
         public List<Pedidos> MostrarPedidos()
         {
             var consulta = from datos in context.Pedidos
@@ -78,6 +79,10 @@ namespace APICopyCore.Repositories
         public Pedidos BuscarPedido(int id_pedido)
         {
             return this.context.Pedidos.SingleOrDefault(x => x.Id_Pedido == id_pedido);
+        }
+        public Pedidos BuscarPedidoUsuario(int id)
+        {
+            return this.context.Pedidos.SingleOrDefault(x => x.Id == id);
         }
     }
 }
