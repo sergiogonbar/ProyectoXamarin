@@ -21,5 +21,6 @@ namespace HerramientaInsertarArticulos.Models
         public String Imagen { get; set; }
 
         public String Marca { get; set; }
+        public String Descripcion { get; set; }
     }
 }

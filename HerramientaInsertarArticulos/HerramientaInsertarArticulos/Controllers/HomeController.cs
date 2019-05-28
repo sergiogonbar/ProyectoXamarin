@@ -25,11 +25,11 @@ namespace HerramientaInsertarArticulos.Controllers
         public IActionResult Index() { return View(); }
 
         [HttpPost]
-        public async Task<IActionResult> Index(String name, int stock, String type, IFormFile file, int price, string marca)
+        public async Task<IActionResult> Index(String name, int stock, String type, IFormFile file, int price, string marca, string descripcion)
         {
             await this.tool.SubirBlob(file);
             String uriImagen = await this.tool.GetUriBlob(file.FileName);
-            await this.repo.InsertarArticulos(name, stock, price, type, uriImagen);
+            await this.repo.InsertarArticulos(name, stock, price, type,marca, uriImagen, descripcion);
             return View();
         }
 

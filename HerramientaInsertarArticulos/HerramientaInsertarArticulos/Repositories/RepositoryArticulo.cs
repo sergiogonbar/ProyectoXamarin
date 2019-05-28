@@ -16,11 +16,11 @@ namespace HerramientaInsertarArticulos.Repositories
 
         public RepositoryArticulo()
         {
-            this.apiurl = "https://apicopyst9.azurewebsites.net";
+            this.apiurl = "https://apicopycore.azurewebsites.net/";
             this.headerjson = new MediaTypeWithQualityHeaderValue("application/json");
         }
 
-        public async Task InsertarArticulos(string nombre, int cantidad_stock, int precio, string tipo, string imagen)
+        public async Task InsertarArticulos(string nombre, int cantidad_stock, int precio, string tipo, string marca, string imagen, String descripcion)
         {
             using (HttpClient client = new HttpClient())
             {
@@ -35,10 +35,11 @@ namespace HerramientaInsertarArticulos.Repositories
                 articulo.Precio = precio;
                 articulo.Tipo = tipo;
                 articulo.Imagen = imagen;
+                articulo.Descripcion = descripcion;
+                articulo.Marca = marca;
                 String json = JsonConvert.SerializeObject(articulo);
                 StringContent content = new StringContent(json, System.Text.Encoding.UTF8, "application/json");
                 HttpResponseMessage response = await client.PostAsync(peticion, content);
-
             }
         }
 
