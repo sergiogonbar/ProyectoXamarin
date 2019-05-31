@@ -80,9 +80,15 @@ namespace APICopyCore.Repositories
         {
             return this.context.Pedidos.SingleOrDefault(x => x.Id_Pedido == id_pedido);
         }
-        public Pedidos BuscarPedidoUsuario(int id)
+        public List<Pedidos> BuscarPedidoUsuario(int id)
         {
-            return this.context.Pedidos.SingleOrDefault(x => x.Id == id);
+
+            var consulta = from datos in context.Pedidos
+                           where datos.Id == id
+                           select datos;
+            return consulta.ToList();
+
+                        
         }
     }
 }

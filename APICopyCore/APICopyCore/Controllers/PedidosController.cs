@@ -82,7 +82,7 @@ namespace APICopyCore.Controllers
         [Authorize]
         [HttpGet]
         [Route("Api/BuscarPedido/{id}")]
-        public Pedidos BuscarPedido(int id)
+        public List<Pedidos> BuscarPedido(int id)
         {
             return this.repo.BuscarPedidoUsuario(id);
         }
